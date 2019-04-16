@@ -14,16 +14,17 @@ is done in-place.
 
 0. If the number of the elements in the input triples,
 the time required to run the reigning champ algorithm
-will grow by __________________.
+will grow by 2 times because three times as many elements will have to be processed and transferred.
 [Justify, in about 2 sentences.]
 
 0. If the number of the elements in the input triples,
 the number of times that the reigning champ algorithm
 will be invoked 
-will grow by __________________.
+will grow by 2 times for the above reason.
 [Justify, in about 2 sentences.]
 
 0. If the number of the elements in the input triples,
 the time required for the selection sort
-will grow by __________________.
+will grow by about 1.5 times because although there are 3 times as many elements, each time an element 
+	is processed, the equivalent of processing 2 elements is accomplished.
 [Justify, in about 2 sentences.]
